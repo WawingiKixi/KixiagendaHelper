@@ -1,3 +1,5 @@
+OBJECTOS DO KIXIAGENDA
+
 INSERT INTO public.objecto(id,objecto,id_tipo_objecto,ordem,apresentar) VALUES (274,'SIS:Kixi Agenda','APL001',0,'Kixi Agenda');
 INSERT INTO public.objecto(id,objecto,id_tipo_objecto,ordem,apresentar) VALUES (275,'SIS:Kixi API','APL001',0,'Kixi API');
 INSERT INTO public.objecto(id,objecto,id_tipo_objecto,ordem,apresentar) VALUES (276,'SIS:Kixi BKSQL','APL001',0,'Kixi BKSQL');

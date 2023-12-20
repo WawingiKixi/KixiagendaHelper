@@ -8,3 +8,6 @@ CREATE TABLE departamento (
     apresentar VARCHAR NOT NULL,
     PRIMARY KEY (id)
 );
+
+
+====================================================

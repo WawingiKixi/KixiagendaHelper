@@ -1,0 +1,10 @@
+update users set tipo=1 where departamento ='1-Sistemas & Organização'
+
+
+CREATE TABLE departamento (
+    id uuid DEFAULT uuid_generate_v4 (),
+    codigo smallint NOT NULL,
+    departamento VARCHAR NOT NULL,
+    apresentar VARCHAR NOT NULL,
+    PRIMARY KEY (id)
+);

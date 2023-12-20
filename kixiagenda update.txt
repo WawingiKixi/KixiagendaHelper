@@ -1,0 +1,12 @@
+============= ACTUALIZAR KIXIAGENDA =========================
+
+1. npm install //install node modules
+2. npm install vue-chartjs chart.js --save
+
+
+3. BUG: "export 'default' (imported as 'Chart') was not found in 'chart.js'
+=> npm install vue-chartjs chart.js@2 --save 
+
+
+
+============= KIXIAGENDA Vuejs v3 ==================
